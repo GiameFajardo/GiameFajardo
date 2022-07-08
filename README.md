@@ -24,6 +24,10 @@
 <div align="center">
   <img src="https://github.com/GiameFajardo/GiameFajardo/blob/master/Giame%20Banner.png" height="300"/>
 </div>
+
+---
+
+### :woman_technologist: About Me :
 <!--
 **GiameFajardo/GiameFajardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
