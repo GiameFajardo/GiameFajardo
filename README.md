@@ -35,7 +35,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giamefajardo/)
 
 ---
 
@@ -62,8 +62,8 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-giamefajardo&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giamefajardo&theme=dark)](https://git.io/streak-stats)
 <!--
 **GiameFajardo/GiameFajardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
